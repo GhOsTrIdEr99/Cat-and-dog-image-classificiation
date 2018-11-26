@@ -1,2 +1,2 @@
 # Cat-and-dog-image-classificiation
-Cat and dog classification using Convolution Neural network(CNN) and Kears package 
+Cat and dog image classification using Convolution Neural network(CNN) and Kears package 
